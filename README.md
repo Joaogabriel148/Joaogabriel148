@@ -1,6 +1,6 @@
 ### Olá! Eu sou o João Gabriel, estudante de programação e tecnologia!
 
-- 🌱 Estudante de Ciências da Computação
+- 📚 Estudante de Ciências da Computação
 
 <div align="center">
   <a href="https://github.com/Joaoagbriel148">
