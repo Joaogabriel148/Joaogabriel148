@@ -1,10 +1,7 @@
 
-
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1C6B94&height=160&section=header&text=João%20Gabriel👨‍💻&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
 
-<img align="left" alt="João-pic" height="250" style="border-radius:50px" src="">
+<!-- <img align="left" alt="João-pic" height="250" style="border-radius:50px" src=""> -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1C6B94&center=true&vCenter=true&width=500&lines=Dev+Front-End)](https://git.io/typing-svg)
 </br>
