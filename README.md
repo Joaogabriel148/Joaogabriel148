@@ -3,30 +3,51 @@
 
 <!-- <img align="left" alt="João-pic" height="250" style="border-radius:50px" src=""> -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1C6B94&center=true&vCenter=true&width=500&lines=Desenvolvedor-Web)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1C6B94&center=true&vCenter=true&width=500&lines=Software+Developer)](https://git.io/typing-svg)
 </br>
 
 ### Olá! Eu sou o João Gabriel, estudante de programação e tecnologia!
 
 - 📚 Estudante do 6 período de Ciências da Computação
-- 💻 Programador Front-end
+- 💻 Software Developer
 
 <div align="left"> 
   <h1>Socials:</h1>
-  <a href="https://www.instagram.com/joaogabrielf_31/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<!--   <a href="https://www.instagram.com/joaogabrielf_31/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
   <a href = "mailto:joaogabrielf124@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-005aa0265" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+  <h2 align="left">Linguagens e Ferramentas</h2>
+  <h3 align="left">Front End</h3>
+  <p align="left">
+    <img height="40" width="40" src="https://cdn.simpleicons.org/html5/1C6B94"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/css3/1C6B94" /> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/1C6B94"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/react/1C6B94"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/python/1C6B94"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/php/1C6B94"/>  
+  </p>
+
+  <h3 align="left">Back End</h3>
+  <p align="left">
+    <img height="40" width="40" src="https://cdn.simpleicons.org/django/1C6B94"/>  
+    <img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/1C6B94"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/express/1C6B94"/>
+  </p>
+
+  <h3 align="left">Banco de Dados</h3>
+  <p align="left">
+    <img height="40" width="40" src="https://cdn.simpleicons.org/postgresql/1C6B94"/>
+    <img height="40" width="40" src="https://cdn.simpleicons.org/sqlite/1C6B94"/>    
+  </p>
   
-<h1>Tech Stack:</h1>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<!--   <img align="center" alt="Rafa-" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"> -->
-  </div>
+  <h3 align="left">Ferramentas</h3>
+  <p align="left">
+    <img height="40" width="40" src="https://cdn.simpleicons.org/visualstudio/1C6B94"/>    
+    <img height="40" width="40" src="https://cdn.simpleicons.org/figma/1C6B94"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/git/1C6B94"/> 
+  </p>
   
   ##
 <h1>Github Stats:</h1>
