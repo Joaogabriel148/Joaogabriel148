@@ -6,9 +6,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1C6B94&center=true&vCenter=true&width=500&lines=Software+Developer)](https://git.io/typing-svg)
 </br>
 
-### Olá! Eu sou o João Gabriel, estudante de programação e tecnologia!
+### Olá! Eu sou o João Gabriel, entusiasta de programação e tecnologia!
 
-- 📚 Estudante do 6 período de Ciências da Computação
+- 📚 Estudante do 7 período de Ciências da Computação
 - 💻 Software Developer
 
 <div align="left"> 
