@@ -8,7 +8,7 @@
 
 ### Olá! Eu sou o João Gabriel, entusiasta de programação e tecnologia!
 
-- 📚 Estudante do 7 período de Ciências da Computação
+<!-- - 📚 Estudante do 7 período de Ciências da Computação-->
 - 💻 Software Developer
 
 <div align="left"> 
