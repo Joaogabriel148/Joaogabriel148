@@ -26,7 +26,6 @@
     <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/1C6B94"/> 
     <img height="40" width="40" src="https://cdn.simpleicons.org/react/1C6B94"/> 
     <img height="40" width="40" src="https://cdn.simpleicons.org/electron/1C6B94"/>
-    <img height="40" width="40" src="https://cdn.simpleicons.org/php/1C6B94"/>  
   </p>
 
   <h3 align="left">Back End</h3>
