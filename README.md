@@ -25,15 +25,15 @@
     <img height="40" width="40" src="https://cdn.simpleicons.org/css3/1C6B94" /> 
     <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/1C6B94"/> 
     <img height="40" width="40" src="https://cdn.simpleicons.org/react/1C6B94"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/python/1C6B94"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/django/1C6B94"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/flask/1C6B94"/>
     <img height="40" width="40" src="https://cdn.simpleicons.org/electron/1C6B94"/>
     <img height="40" width="40" src="https://cdn.simpleicons.org/php/1C6B94"/>  
   </p>
 
   <h3 align="left">Back End</h3>
   <p align="left"> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/python/1C6B94"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/django/1C6B94"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/flask/1C6B94"/>
     <img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/1C6B94"/> 
     <img height="40" width="40" src="https://cdn.simpleicons.org/express/1C6B94"/>
   </p>
