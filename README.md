@@ -19,7 +19,7 @@ Always evolving, always building.
 ---
 
 **My contacts**  
-✉️ joaogabrielf124@gmail.com  
+✉️ Email: joaogabrielf124@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/joaogabrielf148/  
 🌐 Portfólio: https://joaogabriel148.github.io/personal-portifolio/
 
