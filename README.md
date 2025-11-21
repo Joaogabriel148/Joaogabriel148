@@ -1,23 +1,26 @@
-<div align="center">
+<div>
 
-### 👋 João Gabriel  
-**Desenvolvedor Fullstack & Estudante de Ciência da Computação**
-
----
-
-💻 **Atualmente trabalhando em:**  
-Sistemas fullstack com Django + DRF, PostgreSQL, Vue 3, React (ShadCN UI) e ingestão de planilhas XLS.
-
-🛠️ **Ferramentas que uso:**  
-Python • Django • DRF • PostgreSQL • Vue 3 • React • Vite • HTML • CSS • JavaScript • Git • Pygame • Tkinter
-
-📫 **Como me encontrar:**  
-📧 seu-email@exemplo.com  
-🔗 LinkedIn: https://linkedin.com/in/seuuser  
-🌐 Portfólio: (adicione aqui)
+<h2>Hey there👋</h2>
+I´m João Gabriel, a software engenieer
+</br>
+</br>
+I mostly work on a full stack development - Node.js, Django, React and Typesript 
+</br>
+</br>
+Always evolving, always building.
 
 ---
+**Tools & Tech:**  
+* Python, Javascript, Typescript
+* Pygame, Tkinter, Pandas
+* Django, React,  Node.js
+* MySQL, PostgrSQL
+* Git, GitHub 
+---
 
-✨ *Sempre evoluindo, sempre construindo.*
+**My contacts**  
+✉️ joaogabrielf124@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/joaogabrielf148/  
+🌐 Portfólio: https://joaogabriel148.github.io/personal-portifolio/
 
 </div>
