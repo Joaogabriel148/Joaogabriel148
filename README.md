@@ -24,3 +24,10 @@ Always evolving, always building.
 🌐 Portfólio: https://joaogabriel148.github.io/personal-portifolio/
 
 </div>
+
+<!-- <h1>Github Stats:</h1>
+<div align="center">
+  <a href="https://github.com/Joaoagbriel148">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Joaogabriel148&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaogabriel148&layout=compact&langs_count=7&theme=dracula"/>
+</div>  -->
