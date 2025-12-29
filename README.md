@@ -1,7 +1,7 @@
 <div>
 
 <h2>Hey there👋</h2>
-I´m João Gabriel, a software engenieer
+I´m João Gabriel, a software developer
 </br>
 </br>
 I mostly work on a full stack development - Node.js, Django, React and Typesript 
