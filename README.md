@@ -55,7 +55,7 @@ I mostly work with **Full Stack development**, combining robust backends with mo
 ## 🌐 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-joaogabrielf124@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:joaogabrielf124@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-João%20Gabriel-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/jogabrieldev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-João%20Gabriel-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/jogabrieldev/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=vercel&logoColor=white)](https://joaogabriel148.github.io/personal-portfolio/)
 
 ---
